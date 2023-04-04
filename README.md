@@ -5,6 +5,7 @@
 ![](https://img.shields.io/github/repo-size/kingyuluk/FlappyBird?color=FFB6C1&logo=github)
 
 ## Overview
+123
 
 基于Java基础类库编写的Flappy Bird桌面平台版。
 
